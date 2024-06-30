@@ -1,4 +1,4 @@
-# Cavestory (why can't I finish anything?)
+# Cavestory
 
 Cavestory remake This is a remake for Cavestory's upcoming 20th anniversary. In love2d of course! This will be a small remake of the game with extra effects.
 
